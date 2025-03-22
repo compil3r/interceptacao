@@ -37,7 +37,7 @@ O jogo apresenta uma série de frases relacionadas ao tema, convertidas em códi
 
 - **Autor**: Prof. Vitor Hugo  
   Feito com ❤️ para a disciplina **Fundamentos de Ciência de Dados**.  
-  LinkedIn: [Perfil](https://www.linkedin.com/in/vitor-hugo-lopes/)
+  LinkedIn: [Perfil](https://www.linkedin.com/in/vitor-hugo-lopes/)  
   Email: vtrhugolopes@gmail.com
 
 - **Recursos Utilizados**:
