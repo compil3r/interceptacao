@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interceptação de Código :: Prof Vitor</title>
+  <link href="estilo.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/png" href="memoji.png">
+
+</head>
+<body>
+</head>
+<body>
+  <header>
+    <h1>Fundamentos de Ciência de Dados</h1>
+    <h2>Curso Superior de Tecnologia em Inteligência Artificial e Ciência de Dados</h2>
+  </header>
+  <div class="terminal">
+    <div class="glitch"></div>
+    <div class="terminal-title" id="terminal-title">INTERCEPTAÇÃO DE MENSAGEM #1</div>
+    <div id="binary-container">
+      <!-- Binary words will be dynamically inserted here -->
+    </div>
+    <div class="input-container">
+      <input type="text" id="user-input" placeholder="Digite a palavra em ASCII aqui..." />
+      <button onclick="validateWord()">Enviar</button>
+    </div>
+    <div id="message" class="message"></div>
+  </div>
+  <div id="overlay" class="overlay">
+    <div class="memoji-glitch"></div>
+    <div id="final-message" class="final-message">Mensagem Decodificada!<br>Operação Concluída com Sucesso!</div>
+  </div>
+  <footer>
+    Feito com <span style="color: red;">&hearts;</span> por 
+    <a href="https://www.linkedin.com/in/vitor-hugo/" target="_blank">Prof Vitor Hugo</a>
+    <div class="logo">
+      <img src="logo-unisenac.png" alt="Logo UniSenac" width="100">
+    </div>
+  </footer>
+
+  <div class="custom-cursor"></div>
+
+  <!-- Modal de Alerta -->
+  <div id="alert-modal" class="alert-modal">
+    <h1>⚠️ ALERTA ⚠️</h1>
+    <p>Você está tentando usar artifícios errados para vencer!</p>
+    <button onclick="closeAlertModal()">Entendido</button>
+  </div>
+
+
+  <script src="script.js"></script>
+  
+</body>
+</html>
