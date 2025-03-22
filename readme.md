@@ -50,4 +50,6 @@ Este projeto é puramente educacional e destina-se a demonstrar conceitos básic
 
 ---
 
-![Memoji](memoji.png)  
+<p align="center">
+  <img src="memoji.png" alt="Memoji do Prof Vitor Hugo" width="100" height="100">
+</p>
